@@ -24,7 +24,7 @@ margin:20px;
 <body>
 <h1>Login Form</h1>
 <div class="form">
-<form action="/helloMVC3/doLogin" method ="get">
+<form action="/helloMVC3/doLogin" method ="post">
 <table cellpadding ="5">
 <tr>
 <td>ID</td>

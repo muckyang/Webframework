@@ -21,7 +21,7 @@ margin:20px;
 <div class ="form">
 
 
-<form action="/helloMVC3/doregister" method ="get">
+<form action="/helloMVC3/doregister" method ="post">
 <table cellpadding ="5">
 <tr>
 <td colspan="2"><h4>Registration Form</h4></td>

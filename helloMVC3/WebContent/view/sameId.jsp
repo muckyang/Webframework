@@ -4,12 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<title>Insert title here</title>
-
 
 </head>
 <body>
-<h2>Register error page.</h2>
+<h2>Your Id already exist.</h2>
 <p><a href="view/register.jsp">back to page.</a></p>
 </body>
 </html>
